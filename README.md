@@ -38,6 +38,6 @@ The technology stack is built on consisten set of APIs based on open-source tech
 
 ### Anthos in more detail
 
-![anthos](./docs/img/anthos01.png)
+![anthos](./docs/img/anthos_01.png)
 
-![anthos](./docs/img/anthos02.png)
+![anthos](./docs/img/anthos_02.png)
