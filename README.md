@@ -34,3 +34,4 @@ The technology stack is built on consisten set of APIs based on open-source tech
 * A single application model that empowers developers and operators adopt modern methodologies and promotes agility and productivity.
 * A central control plane based on a service centric view, powered by automation and security at scale.
 
+![anthos](./docs/img/anthos.png)
