@@ -35,3 +35,9 @@ The technology stack is built on consisten set of APIs based on open-source tech
 * A central control plane based on a service centric view, powered by automation and security at scale.
 
 ![anthos](./docs/img/anthos.png)
+
+### Anthos in more detail
+
+![anthos](./docs/img/anthos01.png)
+
+![anthos](./docs/img/anthos02.png)
